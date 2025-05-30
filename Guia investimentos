@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Guia de Investimentos</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f9f9f9;
+      color: #333;
+    }
+
+    header {
+      text-align: center;
+      background-color: #002e5d;
+      color: #fff;
+      padding: 30px 20px;
+    }
+
+    header img {
+      max-width: 300px;
+      width: 90%;
+      margin-top: 20px;
+      border-radius: 12px;
+    }
+
+    section {
+      max-width: 800px;
+      margin: 40px auto;
+      padding: 0 20px;
+    }
+
+    h2 {
+      color: #002e5d;
+    }
+
+    ul {
+      list-style: none;
+      padding-left: 0;
+    }
+
+    ul li::before {
+      content: "✅";
+      margin-right: 8px;
+      color: #2e7d32;
+    }
+
+    .testimonials {
+      font-style: italic;
+      margin: 20px 0;
+      padding-left: 10px;
+      border-left: 4px solid #ccc;
+    }
+
+    .bonus {
+      background: #e0f7fa;
+      padding: 15px;
+      border-radius: 8px;
+      margin: 30px 0;
+    }
+
+    .price {
+      font-size: 28px;
+      font-weight: bold;
+      color: #2e7d32;
+      margin: 10px 0;
+    }
+
+    .cta-button {
+      display: inline-block;
+      background-color: #ff6f00;
+      color: white;
+      padding: 15px 25px;
+      border-radius: 8px;
+      font-size: 18px;
+      text-decoration: none;
+      margin-top: 20px;
+    }
+
+    .cta-button:hover {
+      background-color: #e65100;
+    }
+
+    footer {
+      text-align: center;
+      padding: 30px 20px;
+      background-color: #eee;
+      font-size: 14px;
+    }
+
+    @media screen and (max-width: 600px) {
+      .cta-button {
+        font-size: 16px;
+        padding: 12px 20px;
+      }
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Guia de Investimentos<br>para Jovens e Iniciantes</h1>
+    <img src="3c1ac2bc-37b4-42f7-9a1b-9827a042f335.png" alt="Capa do E-book Guia de Investimentos" />
+  </header>
+
+  <section>
+    <h2>📘 O que você vai aprender:</h2>
+    <ul>
+      <li>Como dar os primeiros passos no mundo dos investimentos</li>
+      <li>O que são ações, renda fixa, fundos e criptomoedas</li>
+      <li>Como analisar boas ações com exemplos práticos</li>
+      <li>Diversificação com base em grandes analistas</li>
+      <li>Como evitar os principais erros de iniciantes</li>
+      <li>Montar sua carteira mesmo com pouco dinheiro</li>
+    </ul>
+
+    <h2>🚀 Por que este e-book é perfeito para você?</h2>
+    <ul>
+      <li>Linguagem simples e direta</li>
+      <li>Explicações com exemplos reais</li>
+      <li>Feito para iniciantes</li>
+      <li>Acesso imediato após a compra</li>
+      <li>Bônus prático incluso</li>
+    </ul>
+
+    <div class="testimonials">
+      <p>"Nunca imaginei que aprender a investir fosse tão fácil. Esse e-book me abriu a mente!"<br>— Rafael M., 19 anos</p>
+      <p>"Comecei a investir com R$ 100 por mês. Hoje já tenho minha carteira montada graças a esse conteúdo."<br>— Camila S., 22 anos</p>
+    </div>
+
+    <div class="bonus">
+      <h3>🎁 BÔNUS EXCLUSIVO (por tempo limitado):</h3>
+      <ul>
+        <li>📄 Planilha automática para controlar seus investimentos</li>
+        <li>📚 Mini-guia: "7 erros que todo iniciante precisa evitar"</li>
+      </ul>
+    </div>
+
+    <h2>💸 Investimento</h2>
+    <p>O conteúdo vale centenas de reais, mas você pode acessar por apenas:</p>
+    <p class="price">R$ 29,90 (pagamento único)</p>
+    <p>✔️ Acesso imediato<br>✔️ Garantia de 7 dias</p>
+
+    <a href="#" class="cta-button" target="_blank">Quero Começar a Investir Agora</a>
+
+    <p style="margin-top: 30px;">📱 Dúvidas? <a href="https://wa.me/5516997169257" target="_blank">Fale no WhatsApp (16) 99716-9257</a></p>
+  </section>
+
+  <footer>
+    &copy; 2025 Guia de Investimentos. Todos os direitos reservados.
+  </footer>
+
+</body>
+</html>
